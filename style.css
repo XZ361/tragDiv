@@ -1,0 +1,13 @@
+.trag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+}
+
+body {
+    margin: 0px;
+    box-sizing: border-box;
+}
